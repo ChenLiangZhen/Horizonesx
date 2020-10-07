@@ -1,0 +1,68 @@
+#vertical-flex{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+#head{
+    background-color: rgba(223,223,223,0.95);
+    display: flex;
+    justify-content: space-around;
+    height: 75px;
+}
+
+#foot{
+    display: flex;
+    justify-content: space-around;
+}
+
+#header{
+
+}
+
+#header-text{
+    color: rgba(32,32,32,0.95);
+    font-family: Raleway;
+    font-weight: 800;
+}
+
+#btn-login{
+    background-color: rgba(223,223,223,0);
+    color: #202020;
+    border: 2px solid #161616;
+    height: 100%;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Raleway;
+    font-weight: 800;
+    outline: none;
+    transition-duration: 500ms;
+}
+
+#btn-login:hover{
+    background-color: #bfbfbf;
+}
+#btn-login:active{
+    transition-duration: 50ms;
+    background-color: #fff;
+    color: black;
+}
+
+#gallery{
+    display:flex;
+    justify-content: center;
+}
+
+#footer{
+    color: rgba(16,16,16,0.75);
+    font-family: Raleway;
+    font-weight: 400;
+}
+
+

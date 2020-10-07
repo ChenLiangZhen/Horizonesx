@@ -1,0 +1,217 @@
+body{
+    font-family: Raleway;
+    color: #282828;
+}
+
+.name{
+    position: absolute;
+    margin-top: 20px;
+    width: 260px;
+    text-align: center;
+    font-size: 24px;
+    color: #282828
+}
+.picture{
+    width: 300px;
+    height: 240px;
+    display:inline-block;
+}
+
+.handle {
+    position: absolute;
+    width: 75px;
+    height: 100px;
+    background-color: #505050;
+    border-radius: 0 30px 30px 0;
+    margin-left: 227px;
+    margin-top: 10px;
+    border-radius: 0 30px 30px 0;
+}
+
+.handle2 {
+    width: 55px;
+    height: 55px;
+    background-color: #ffffff;
+    border-radius: 0 20px 20px 0;
+    margin-top: 32px;
+    margin-left: 230px;
+    position: absolute;
+}
+
+.cup{
+    width: 200px;
+    height: 150px;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(27,27,27,1) 0%, rgba(0,0,0,0.6811099439775911) 100%);
+    border-radius: 30px;
+    border-radius: 0 0 50px 50px;
+    margin-left: 30px;
+}
+
+.plate{
+    position: absolute;
+    width: 200px;
+    height: 10px;
+    background-color: #282828;
+    border-radius: 30px;
+    border-radius: 0 0 30px 30px;
+    margin-left: 30px;
+    z-index: 10;
+}.plate2{
+    position: absolute;
+    width: 180px;
+    height: 10px;
+    background-color: #6e6e6e;
+    border-radius: 30px;
+    border-radius: 0 0 30px 30px;
+    margin-left: 40px;
+    margin-top: 4px;
+    z-index: 1;
+}
+
+.espresso{
+    position:absolute;
+    width: 170px;
+    height: 30px;
+    background-color: #d79796;
+    border-radius: 30px;
+    border-radius: 10px 10px 40px 40px;
+    margin-left: 15px;
+    margin-top: 102px;
+    text-align: center;
+}
+
+.foammilk{
+    position:absolute;
+    width: 170px;
+    height: 30px;
+    background-color: #efefef;
+    border-radius: 30px;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 15px;
+    margin-top: 65px;
+    text-align: center;
+
+}.foammilk2{
+    position:absolute;
+    width: 170px;
+    height: 30px;
+    background-color: #efefef;
+    border-radius: 30px;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 15px;
+    margin-top: 28px;
+    text-align: center;
+
+}
+.milk{
+    position:absolute;
+    width: 170px;
+    height: 30px;
+    background-color: #f5f4d5;
+    border-radius: 30px;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 15px;
+    margin-top: 65px;
+    text-align: center;
+
+}
+.butter{
+    position:absolute;
+    width: 170px;
+    height: 30px;
+    background-color: #f5da8d;
+    border-radius: 30px;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 15px;
+    margin-top: 65px;
+    text-align: center;
+
+}.butter2{
+    position:absolute;
+    width: 170px;
+    height: 30px;
+    background-color: #f5da8d;
+    border-radius: 30px;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 15px;
+    margin-top: 28px;
+    text-align: center;
+
+}.butter3{
+    position:absolute;
+    width: 170px;
+    height: 30px;
+    background-color: #f5da8d;
+    border-radius: 30px;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 15px;
+    margin-top: 65px;
+    text-align: center;
+
+}.chocosyr{
+    position:absolute;
+    width: 170px;
+    height: 30px;
+    background-color: rgba(223,190,185,0.7);
+    border-radius: 30px;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 15px;
+    margin-top: 65px;
+    text-align: center;
+
+}.halfmb{
+    position:absolute;
+    width: 170px;
+    height: 30px;
+    background-color: #bbf5c0;
+    border-radius: 30px;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 15px;
+    margin-top: 65px;
+    text-align: center;
+}.irwh{
+    position:absolute;
+    width: 170px;
+    height: 30px;
+    background-color: #f598d1;
+    border-radius: 30px;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 15px;
+    margin-top: 65px;
+    text-align: center;
+}
+.caramel{
+    position:absolute;
+    width: 170px;
+    height: 30px;
+    background-color: #d7b6b2;
+    border-radius: 30px;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 15px;
+    margin-top: 28px;
+    text-align: center;
+}.fmc{
+    position:absolute;
+    width: 170px;
+    height: 30px;
+    background-color: #f4c1f5;
+    border-radius: 30px;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 15px;
+    margin-top: 65px;
+    text-align: center;
+}
+
+
+
+.water{
+    position:absolute;
+    width: 170px;
+    height: 60px;
+    background-color: #a0f5eb;
+    border-radius: 30px;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 15px;
+    margin-top: 35px;
+    text-align: center;
+}

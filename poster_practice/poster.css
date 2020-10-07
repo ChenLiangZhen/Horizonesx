@@ -1,0 +1,91 @@
+.poster{
+    position: absolute;
+    outline: 1px solid #000000;
+    width: 450px;
+    height: 695px;
+    left: 200px;
+    overflow: hidden;
+}
+
+.pbg{
+    font-size: ;
+}
+
+.img{
+    position: absolute;
+}
+
+.red1{
+    margin-top: 144px;
+    position: absolute;
+    width: 423px;
+    height: 85px;
+    background-color: red;
+    rotation-point: left top;
+    transform: rotate(45deg);
+    transform-origin: left top;
+    z-index: 10;
+}
+
+.text1{
+    margin-top: 128px;
+    margin-left: 128px;
+    position: absolute;
+    width: 423px;
+    height: 85px;
+    color: rgba(255,255,255,0.95);
+    rotation-point: left top;
+    transform: rotate(45deg);
+    transform-origin: left top;
+    z-index: 20;
+}
+
+.red2{
+    margin-top: 264px;
+    position: absolute;
+    width: 610px;
+    height: 85px;
+    background-color: #a70004;
+    rotation-point: left top;
+    transform: rotate(45deg);
+    transform-origin: left top;
+    z-index: 10;
+}
+
+.text2{
+    position: absolute;
+    right: 0;
+    text-align: right;
+    color: #fff;
+    font-family: Raleway;
+    transform: rotate(45deg);
+    margin-right: 450px;
+    z-index: 20;
+}
+
+.black{
+    margin-top: 554px;
+    position: absolute;
+    width: 780px;
+    height: 126px;
+    background-color: rgba(0,0,0,0.95);
+    rotation-point: left top;
+    transform: rotate(-45deg);
+    transform-origin: left bottom;
+    z-index: 15;
+}
+
+.title-text{
+    position: absolute;
+    color: #fff;
+    font-size: 72px;
+    font-weight: 800;
+    font-family: 'Raleway';
+    font-weight: 400;
+    right: 05px;
+    bottom: 50px;
+    margin-right: 100px;
+    margin-bottom: -30px;
+    outline: 1px solid red;
+    z-index: 15;
+}

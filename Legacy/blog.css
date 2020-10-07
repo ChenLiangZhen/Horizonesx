@@ -1,0 +1,28 @@
+body {
+    border: #dfdfdf 20px solid ;
+    padding: 20px;
+    max-width: 700px;
+    margin: 20px auto;
+    font-family: Source Sans Pro;
+}
+
+.quote{
+    border-left: #bdc3c7 4px solid;
+    padding-left: 16px;
+}
+
+.date {
+    color: #3498db;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 1rem;
+}
+.post{
+    margin-bottom: 16px;
+}
+hr{
+    border-top: lightgray 2px solid;
+}
+h2{
+    color: #2c3e50;
+}
